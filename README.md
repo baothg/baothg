@@ -20,4 +20,4 @@ I'm on a mission to provide customer care solutions through cross-platform appli
 Check out links below to know more about me:
 
 [![Subscribe me](https://badgen.net/https/untitled-p3jpb9t4sk3o.runkit.sh)](https://www.youtube.com/channel/UC_5i-LcCRuyF7Nuk7Uo6N9g)
-[![Follow me](https://badgen.net/https/untitled-6jzovg4irq98.runkit.sh)](https://medium.com/@baobao1996mn)
+[![Follow me](https://badgen.net/https/untitled-6jzovg4irq98.runkit.sh)](https://medium.com/@baothg)
