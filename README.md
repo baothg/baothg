@@ -4,6 +4,9 @@ I'm on a mission to provide customer care solutions through cross-platform appli
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/baobao1996mn) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=baobao1996mn.visitor-badge)](https://github.com/baobao1996mn) 
 
+I am participating in the project Proptech - serviced apartments for young people. You can experience the product on Google Play or the App Store. ![](https://play-lh.googleusercontent.com/Pxm2YkJLun3LYo9MzIY_2Hofar_5ZKIQBRABPIab0Pn5wKoSZur_npxmpfKxsyQvUQ=w20-h20-rw)&nbsp;&nbsp;&nbsp;&nbsp;[![iOS](https://badgen.net/https/untitled-466mqdkn4uw0.runkit.sh?label&icon=apple)](https://apps.apple.com/us/app/id1630719100)&nbsp;&nbsp;&nbsp;&nbsp;[![Android](https://badgen.net/https/untitled-pfuji5p85uqd.runkit.sh?icon=kofi&label)](https://play.google.com/store/apps/details?id=com.betagroup.aplushome)
+
+Besides, I also participated in ecommerce, spa, fitness, ... projects on phones, tablets:
 
 | Application | Category | Platform & Version |
 | ------ | ------ | ------ |
